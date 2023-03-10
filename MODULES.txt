@@ -1,0 +1,5 @@
+requests
+win32console
+colorama
+os
+threading
