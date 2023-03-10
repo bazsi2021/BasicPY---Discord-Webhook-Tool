@@ -1,4 +1,4 @@
---------BasycPY Maded By Kokai Balazs--------------
+--------BasicPY--------------
 
 You can send messages in channels using webhook
 
@@ -8,5 +8,3 @@ COMMANDS: (Type the commands after Message or Command here --> )
 !randnum
 !changewebhook
 !chnagename
-
-Coded In Python 100%
