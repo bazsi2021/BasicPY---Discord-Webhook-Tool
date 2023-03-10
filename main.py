@@ -19,7 +19,7 @@ appname = username
 
 
 while True:
-    content = input(f"{Fore.GREEN}What Do You Wants To Send?{Fore.WHITE} --> ")
+    content = input(f"{Fore.GREEN}Message or Command here{Fore.WHITE} --> ")
     if content == "!break app":
         print(f"{Fore.RED}Ok Breaking The App{Fore.WHITE}")
         break
